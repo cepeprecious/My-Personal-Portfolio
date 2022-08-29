@@ -3,4 +3,4 @@ One of my projects in our subject WS101 - Web Systems and Technologies
 
 (It's supposed to be in Laravel format but since the Laravel file disappeared, I'll be putting the HTML CSS format instead)
 
-Live Preview: [Demo](https://yamachine1993.github.io/My-Personal-Portfolio/)
+Live Preview: [Demo](https://cepeprecious.github.io/My-Personal-Portfolio/)
